@@ -23,7 +23,7 @@ const ProjectDetails: React.FC = () => {
   }
 
   return (
-    <div>
+    <div className="flex flex-col min-h-screen">
       <Navbar />
       <main className="container mx-auto my-10">
         <motion.div

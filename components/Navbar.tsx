@@ -7,7 +7,7 @@ const Navbar: React.FC = () => {
       initial={{ y: -50 }}
       animate={{ y: 0 }}
       transition={{ duration: 0.5 }}
-      className="bg-gray-800 p-4 shadow-md"
+      className="bg-customGray p-4 shadow-md sticky top-0 z-50"
     >
       <div className="container mx-auto flex justify-between items-center">
         <Link href="/" className="text-white text-xl font-bold">My Portfolio</Link>
