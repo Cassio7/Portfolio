@@ -62,7 +62,7 @@ enableRobotsTXT = true
   # Display "back to top" button on posts
   ShowBackToTopButton = true
   socialIcons = [
-    {name = "linkedin", url = "https://www.linkedin.com/in/alessio-cassieri-7424042b5/"}, 
+    {name = "linkedin", url = "https://www.linkedin.com/in/alessio-cassieri/"}, 
     {name = "github", url = "https://github.com/Cassio7"},
     {name = "email", url = "mailto:alessio.cassieri@protonmail.com"}
   ]
