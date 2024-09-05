@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://alessiocassieri.netlify.app/'
 languageCode = 'en-us'
 title = 'Alessio Cassieri'
 theme = 'gokarna'

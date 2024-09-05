@@ -3,6 +3,7 @@ title = 'Projects'
 date = 2024-09-05T00:38:28+02:00
 draft = false
 showTableOfContents= true
+url = '/projects/'
 +++
 
 A small list of curated project that i made in the past years, for fun and for university!
