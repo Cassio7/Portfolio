@@ -9,11 +9,11 @@
     <lastBuildDate>Thu, 05 Sep 2024 01:10:42 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title>About me</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 05 Sep 2024 01:10:42 +0200</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description></description>
+      <description>&lt;p&gt;I’m Alessio Cassieri, a passionate developer and tech enthusiast with a keen interest in cybersecurity.&#xA;I hold a degree in Computer Science from the University of Perugia.&#xA;I enjoy building applications and exploring new technologies.&#xA;This site serves as a portfolio of my work and a place where I share my projects and experiences.&lt;/p&gt;&#xA;&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h2&gt;&#xA;&lt;p&gt;You can contact me via &lt;a href=&#34;mailto:alessio.cassieri@protonmail.com&#34;&gt;email&lt;/a&gt; or connect with me on &lt;a href=&#34;https://www.linkedin.com/in/alessio-cassieri-7424042b5/&#34;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Experience</title>
@@ -27,7 +27,7 @@
       <link>http://localhost:1313/projects/</link>
       <pubDate>Thu, 05 Sep 2024 00:38:28 +0200</pubDate>
       <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;h2 id=&#34;soundclaudio&#34;&gt;SoundClaudio&lt;/h2&gt;&#xA;&lt;p&gt;SoundClaudio is a replica of SoundCloud, developed for educational purposes.&#xA;This project demonstrates how to build a music-sharing platform using modern web technologies like Angular, NodeJS, and MySQL.&#xA;It simulates essential features of SoundCloud, such as user registration, music uploading, and streaming, and is intended for learning and demonstration only.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;soundclaudio&#34;&gt;SoundClaudio&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;SoundClaudio&lt;/strong&gt; is a replica of SoundCloud, developed for educational, learning and demonstration only purposes.&#xA;This project demonstrates how to build a music-sharing platform using modern web technologies.&#xA;It simulates essential features of &lt;a href=&#34;https://soundcloud.com/&#34;&gt;SoundCloud&lt;/a&gt;, such as user registration or login, music uploading, save songs inside liked playlist and streaming music.&lt;/p&gt;&#xA;&lt;h3 id=&#34;technology&#34;&gt;Technology&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Angular&lt;/li&gt;&#xA;&lt;li&gt;Bootstrap&lt;/li&gt;&#xA;&lt;li&gt;NodeJS with Express&lt;/li&gt;&#xA;&lt;li&gt;REST api&lt;/li&gt;&#xA;&lt;li&gt;MySQL&lt;/li&gt;&#xA;&lt;li&gt;JWT&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Cassio7/SoundClaudio&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;tap--apd&#34;&gt;TAP &amp;amp; APD&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;TAP &amp;amp; APD&lt;/strong&gt; is an e-commerce website for managing and selling tortellini.&#xA;There are 2 types of service users:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
