@@ -30,18 +30,18 @@ enableRobotsTXT = true
     pre = "<span data-feather='briefcase'></span>"
     
 
-  [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
-    weight = 3
-    pre = "<span data-feather='tag'></span>"
+  # [[menu.main]]
+  #   identifier = "tags"
+  #   name = "Tags"
+  #   url = "/tags/"
+  #   weight = 3
+  #   pre = "<span data-feather='tag'></span>"
   
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 4
+    weight = 3
     
     # We use feather-icons: https://feathericons.com/
     pre = "<span data-feather='smile'></span>"
@@ -61,3 +61,8 @@ enableRobotsTXT = true
 
   # Display "back to top" button on posts
   ShowBackToTopButton = true
+  socialIcons = [
+    {name = "linkedin", url = "https://www.linkedin.com/in/alessio-cassieri-7424042b5/"}, 
+    {name = "github", url = "https://github.com/Cassio7"},
+    {name = "email", url = "mailto:alessio.cassieri@protonmail.com"}
+  ]

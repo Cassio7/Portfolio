@@ -20,14 +20,14 @@
       <link>http://localhost:1313/experience/</link>
       <pubDate>Thu, 05 Sep 2024 00:57:15 +0200</pubDate>
       <guid>http://localhost:1313/experience/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;occasional-professional-service&#34;&gt;Occasional Professional Service&lt;/h2&gt;&#xA;&lt;h3 id=&#34;clearfake-malware&#34;&gt;ClearFake Malware&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;May, 2024&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;A nearby company&amp;rsquo;s blog was compromised by the &lt;strong&gt;ClearFake&lt;/strong&gt; malware, and the owner&amp;rsquo;s laptop executed malicious code via PowerShell. In response, I removed the malware from their WordPress site by restoring it from previous backups and deleting suspicious files. The laptop was thoroughly cleaned, and all of the client&amp;rsquo;s passwords were changed to prevent future unauthorized access.&lt;/p&gt;&#xA;&lt;h3 id=&#34;wordpress-e-commerce&#34;&gt;WordPress E-Commerce&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;June, 2024&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects</title>
       <link>http://localhost:1313/projects/</link>
       <pubDate>Thu, 05 Sep 2024 00:38:28 +0200</pubDate>
       <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;h2 id=&#34;soundclaudio&#34;&gt;SoundClaudio&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;SoundClaudio&lt;/strong&gt; is a replica of SoundCloud, developed for educational, learning and demonstration only purposes.&#xA;This project demonstrates how to build a music-sharing platform using modern web technologies.&#xA;It simulates essential features of &lt;a href=&#34;https://soundcloud.com/&#34;&gt;SoundCloud&lt;/a&gt;, such as user registration or login, music uploading, save songs inside liked playlist and streaming music.&lt;/p&gt;&#xA;&lt;h3 id=&#34;technology&#34;&gt;Technology&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Angular&lt;/li&gt;&#xA;&lt;li&gt;Bootstrap&lt;/li&gt;&#xA;&lt;li&gt;NodeJS with Express&lt;/li&gt;&#xA;&lt;li&gt;REST api&lt;/li&gt;&#xA;&lt;li&gt;MySQL&lt;/li&gt;&#xA;&lt;li&gt;JWT&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Cassio7/SoundClaudio&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;tap--apd&#34;&gt;TAP &amp;amp; APD&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;TAP &amp;amp; APD&lt;/strong&gt; is an e-commerce website for managing and selling tortellini.&#xA;There are 2 types of service users:&lt;/p&gt;</description>
+      <description>&lt;p&gt;A small list of curated project that i made in the past years, for fun and for university!&lt;/p&gt;&#xA;&lt;h2 id=&#34;soundclaudio&#34;&gt;SoundClaudio&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;SoundClaudio&lt;/strong&gt; is a replica of SoundCloud, developed for educational, learning and demonstration only purposes.&#xA;This project demonstrates how to build a music-sharing platform using modern web technologies.&#xA;It simulates essential features of &lt;a href=&#34;https://soundcloud.com/&#34;&gt;SoundCloud&lt;/a&gt;, such as user registration or login, music uploading, save songs inside liked playlist and streaming music.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
