@@ -1,0 +1,103 @@
+<header class="header">
+  <nav class="header-nav">
+    {{ if isset .Site.Params "avatarurl" }}
+    <div class="avatar">
+      <a href="{{ .Site.BaseURL }}">
+        <img src='{{ .Scratch.Get "avatarImgSrc" }}' alt="{{
+        .Site.Params.AvatarAltText|default "avatar" }}">
+      </a>
+    </div>
+    {{ end }}
+
+    <div class="nav-title">
+      <a class="nav-brand" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+    </div>
+
+    <div class="nav-links">
+      {{ range .Site.Menus.main }}
+      <div class="nav-link">
+        <a
+          href="{{ .URL | absURL }}"
+          {{
+          if
+          .Params.NewPage
+          -}}target="_blank"
+          {{-
+          end
+          -}}
+        >
+          {{- .Pre | safeHTML }} {{ .Name }} {{ .Post | safeHTML -}}
+        </a>
+      </div>
+      {{ end }}
+
+      <!-- Divider between main links and language selector -->
+      <span class="nav-icons-divider"></span>
+
+      <!-- Language Switcher -->
+      <div class="nav-link language-switcher">
+        {{ range .Translations }}
+        <a href="{{ .Permalink }}" class="language-link"
+          >{{ .Site.Language.Lang }}</a
+        >
+        {{ end }}
+      </div>
+
+      <!-- Dark Theme Toggle -->
+      <div class="nav-link dark-theme-toggle">
+        <span class="sr-only dark-theme-toggle-screen-reader-target"></span>
+        <a>
+          <span class="theme-toggle-icon" data-feather="moon"></span>
+        </a>
+      </div>
+
+      <!-- Hamburger Menu for Mobile -->
+      <div class="nav-link" id="hamburger-menu-toggle">
+        <span class="sr-only hamburger-menu-toggle-screen-reader-target"
+          >menu</span
+        >
+        <a>
+          <span data-feather="menu"></span>
+        </a>
+      </div>
+
+      <!-- For mobile -->
+      <ul class="nav-hamburger-list visibility-hidden">
+        {{ range .Site.Menus.main }}
+        <li class="nav-item">
+          <a
+            href="{{ .URL | absURL }}"
+            {{
+            if
+            .Params.NewPage
+            -}}
+            target="_blank"
+            {{-
+            end
+            -}}
+          >
+            {{- .Pre | safeHTML }} {{ .Name }} {{ .Post | safeHTML -}}
+          </a>
+        </li>
+        {{ end }}
+        <li class="nav-item dark-theme-toggle">
+          <span class="sr-only dark-theme-toggle-screen-reader-target"
+            >theme</span
+          >
+          <a>
+            <span class="theme-toggle-icon" data-feather="moon"></span>
+          </a>
+        </li>
+
+        <!-- Language Switcher in Mobile Menu -->
+        {{ range .Translations }}
+        <li class="nav-item">
+          <a href="{{ .Permalink }}" class="language-link"
+            >{{ .Site.Language.Lang }}</a
+          >
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+  </nav>
+</header>

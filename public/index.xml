@@ -5,29 +5,36 @@
     <link>http://localhost:1313/</link>
     <description>Recent content on Alessio Cassieri</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 05 Sep 2024 01:10:42 +0200</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Fri, 06 Sep 2024 15:00:32 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technologies</title>
+      <link>http://localhost:1313/technologies/</link>
+      <pubDate>Fri, 06 Sep 2024 15:00:32 +0200</pubDate>
+      <guid>http://localhost:1313/technologies/</guid>
+      <description>&lt;p&gt;Over the years, between personal study, school and university, I have had the opportunity to use numbers of programming languages and frameworks.&lt;/p&gt;&#xA;&lt;h3 id=&#34;languages&#34;&gt;Languages&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;C&lt;/li&gt;&#xA;&lt;li&gt;JavaScript&lt;/li&gt;&#xA;&lt;li&gt;TypeScript&lt;/li&gt;&#xA;&lt;li&gt;Java&lt;/li&gt;&#xA;&lt;li&gt;Python&lt;/li&gt;&#xA;&lt;li&gt;PHP&lt;/li&gt;&#xA;&lt;li&gt;SQL&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;other-languages&#34;&gt;Other Languages&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;R&lt;/li&gt;&#xA;&lt;li&gt;Bash&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;framework&#34;&gt;Framework&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Angular&lt;/li&gt;&#xA;&lt;li&gt;Bootstrap&lt;/li&gt;&#xA;&lt;li&gt;Laravel&lt;/li&gt;&#xA;&lt;li&gt;NodeJS&lt;/li&gt;&#xA;&lt;li&gt;Hugo&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;dbms&#34;&gt;DBMS&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;MySQL&lt;/li&gt;&#xA;&lt;li&gt;PostgreSQL&lt;/li&gt;&#xA;&lt;li&gt;Oracle&lt;/li&gt;&#xA;&lt;li&gt;SQLite&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;software&#34;&gt;Software&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Blender&lt;/li&gt;&#xA;&lt;li&gt;Unity&lt;/li&gt;&#xA;&lt;li&gt;Postman&lt;/li&gt;&#xA;&lt;li&gt;Zap&lt;/li&gt;&#xA;&lt;li&gt;Nikto&lt;/li&gt;&#xA;&lt;li&gt;Nmap&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>About me</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 05 Sep 2024 01:10:42 +0200</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;I’m Alessio Cassieri, a passionate developer and tech enthusiast with a keen interest in cybersecurity.&#xA;I hold a degree in Computer Science from the University of Perugia.&#xA;I enjoy building applications and exploring new technologies.&#xA;This site serves as a portfolio of my work and a place where I share my projects and experiences.&lt;/p&gt;&#xA;&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h2&gt;&#xA;&lt;p&gt;You can contact me via &lt;a href=&#34;mailto:alessio.cassieri@protonmail.com&#34;&gt;email&lt;/a&gt; or connect with me on &lt;a href=&#34;https://www.linkedin.com/in/alessio-cassieri-7424042b5/&#34;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I am Alessio Cassieri, a passionate web application and software programmer, with a growing interest in cybersecurity, based in Perugia, Italy.&#xA;I have been fascinated by information technology and new technologies for 10 years now, so I always try to keep up with the progress, studying and informing myself about the changes in this amazing world.&lt;/p&gt;&#xA;&lt;p&gt;I created this web portfolio, with a very minimalistic style because I love simplicity and cleanliness in code, to share my work, projects and work experiences.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Experience</title>
       <link>http://localhost:1313/experience/</link>
       <pubDate>Thu, 05 Sep 2024 00:57:15 +0200</pubDate>
       <guid>http://localhost:1313/experience/</guid>
-      <description>&lt;h2 id=&#34;occasional-professional-service&#34;&gt;Occasional Professional Service&lt;/h2&gt;&#xA;&lt;h3 id=&#34;clearfake-malware&#34;&gt;ClearFake Malware&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;May, 2024&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;A nearby company&amp;rsquo;s blog was compromised by the &lt;strong&gt;ClearFake&lt;/strong&gt; malware, and the owner&amp;rsquo;s laptop executed malicious code via PowerShell. In response, I removed the malware from their WordPress site by restoring it from previous backups and deleting suspicious files. The laptop was thoroughly cleaned, and all of the client&amp;rsquo;s passwords were changed to prevent future unauthorized access.&lt;/p&gt;&#xA;&lt;h3 id=&#34;wordpress-e-commerce&#34;&gt;WordPress E-Commerce&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;June, 2024&lt;/em&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;occasional-professional-service&#34;&gt;Occasional Professional Service&lt;/h2&gt;&#xA;&lt;h3 id=&#34;clearfake-malware&#34;&gt;ClearFake Malware&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;May, 2024&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;A nearby company&amp;rsquo;s blog was compromised by the &lt;strong&gt;ClearFake&lt;/strong&gt; malware, and the owner&amp;rsquo;s laptop executed malicious code via PowerShell. In response, I removed the malware from their WordPress site, by restoring it from previous backups and deleted the suspicious files. The laptop was thoroughly cleaned, and all of the client&amp;rsquo;s passwords were changed to prevent future unauthorized access.&lt;/p&gt;&#xA;&lt;h3 id=&#34;wordpress-e-commerce&#34;&gt;WordPress E-Commerce&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;June, 2024&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects</title>
       <link>http://localhost:1313/projects/</link>
       <pubDate>Thu, 05 Sep 2024 00:38:28 +0200</pubDate>
       <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;p&gt;A small list of curated project that i made in the past years, for fun and for university!&lt;/p&gt;&#xA;&lt;h2 id=&#34;soundclaudio&#34;&gt;SoundClaudio&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;SoundClaudio&lt;/strong&gt; is a replica of SoundCloud, developed for educational, learning and demonstration only purposes.&#xA;This project demonstrates how to build a music-sharing platform using modern web technologies.&#xA;It simulates essential features of &lt;a href=&#34;https://soundcloud.com/&#34;&gt;SoundCloud&lt;/a&gt;, such as user registration or login, music uploading, save songs inside liked playlist and streaming music.&lt;/p&gt;</description>
+      <description>&lt;p&gt;A small list of curated projects that i made in the past years, for fun and for university!&lt;/p&gt;&#xA;&lt;h2 id=&#34;soundclaudio&#34;&gt;SoundClaudio&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;SoundClaudio&lt;/strong&gt; is a replica of &lt;a href=&#34;https://soundcloud.com/&#34;&gt;SoundCloud&lt;/a&gt;, developed for educational, learning and demonstration only purposes.&#xA;This project demonstrates how to build a music-sharing platform using modern web technologies.&#xA;It simulates essential features, such as: user registration or log in, possibility to upload music, save songs simply with the ❤️ icon and put on the liked playlist, streaming music and shuffle through your albums.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

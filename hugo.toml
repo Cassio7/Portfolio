@@ -3,8 +3,21 @@ languageCode = 'en-us'
 title = 'Alessio Cassieri'
 theme = 'gokarna'
 
+defaultContentLanguage = "en"
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+  [languages.it]
+    languageName = "Italiano"
+    weight = 2
+
+
 # Automatically generate robots.txt
 enableRobotsTXT = true
+
+#Emoji
+enableEmoji = true
 
 [menu]
   [[menu.main]]
@@ -29,23 +42,27 @@ enableRobotsTXT = true
     weight = 2
     pre = "<span data-feather='briefcase'></span>"
     
+  [[menu.main]]
+    identifier = "technologies"
+    name = "Technologies"
+    url = "/technologies/"
+    weight = 3
+    pre = "<span data-feather='terminal'></span>"
 
-  # [[menu.main]]
-  #   identifier = "tags"
-  #   name = "Tags"
-  #   url = "/tags/"
-  #   weight = 3
-  #   pre = "<span data-feather='tag'></span>"
-  
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 3
-    
+    weight = 4
     # We use feather-icons: https://feathericons.com/
-    pre = "<span data-feather='smile'></span>"
-
+    pre = "<span data-feather='link'></span>"
+  
+  # [[menu.main]]
+  #   identifier = "tags"
+  #   name = "Tags"
+  #   url = "/tags/"
+  #   weight = 5
+  #   pre = "<span data-feather='tag'></span>"
 [params]
   # URL for the avatar on homepage
   avatarURL = "/images/pic.png"
@@ -54,15 +71,16 @@ enableRobotsTXT = true
   avatarSize = "size-s"
 
   # Description to display on homepage
-  description = "Welcome to my web portfolio!"
+  description = "Sky's the Limit!"
 
   # Accent color is displayed when you hover over <a> tags
-  accentColor = "#ff5555"
+  accentColor = "#ff79c6"
 
   # Display "back to top" button on posts
   ShowBackToTopButton = true
   socialIcons = [
     {name = "linkedin", url = "https://www.linkedin.com/in/alessio-cassieri/"}, 
     {name = "github", url = "https://github.com/Cassio7"},
+    {name = "spotify", url = "https://open.spotify.com/user/21qfkrxjcoiicqxb6vi5ayi5y?si=d312528bc96f4a12"},
     {name = "email", url = "mailto:alessio.cassieri@protonmail.com"}
   ]
