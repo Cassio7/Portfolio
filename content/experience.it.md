@@ -11,12 +11,13 @@ showTableOfContents= true
 *Maggio, 2024*
 
 Il blog di un'azienda vicina è stato compromesso dal malware **ClearFake** e il computer portatile del proprietario ha eseguito del codice dannoso tramite PowerShell. 
-In risposta, ho rimosso il malware dal loro sito WordPress ripristinandolo da backup precedente ed eliminato i file sospetti. Il portatile è stato pulito a fondo e tutte le password del cliente sono state modificate per evitare futuri accessi non autorizzati.
+In risposta, ho rimosso il malware dal loro sito WordPress, ripristinato il servizio web e eliminato file sospetti.
+Il portatile è stato pulito a fondo e tutte le password del cliente sono state modificate per evitare futuri accessi non autorizzati.
 
 ### WordPress E-Commerce
 *Giugno, 2024*
 
-Ho sviluppato una piattaforma di e-commerce utilizzando **WooCommerce** per un'azienda locale, consentendole di vendere beni alimentari prodotti in Umbria.
+Ho sviluppato una piattaforma di e-commerce utilizzando **WooCommerce** per un'azienda locale, consentendole di aggiungere, gestire, modificare e vendere beni alimentari prodotti in Umbria.
 
 ## Stagista
 ### Università per Stranieri di Perugia

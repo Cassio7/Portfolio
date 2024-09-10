@@ -10,6 +10,7 @@ Over the years, between personal study, school and university, I have had the op
 - JavaScript
 - TypeScript
 - Java
+- JEE
 - Python
 - PHP
 - SQL
@@ -36,3 +37,6 @@ Over the years, between personal study, school and university, I have had the op
 - Zap
 - Nikto
 - Nmap
+- Docker
+- Eclipse
+- VS Code

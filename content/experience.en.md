@@ -10,12 +10,12 @@ url = '/experience/'
 ### ClearFake Malware
 *May, 2024*
 
-A nearby company's blog was compromised by the **ClearFake** malware, and the owner's laptop executed malicious code via PowerShell. In response, I removed the malware from their WordPress site, by restoring it from previous backups and deleted the suspicious files. The laptop was thoroughly cleaned, and all of the client's passwords were changed to prevent future unauthorized access.
+A nearby company's blog was compromised by the **ClearFake** malware, and the owner's laptop executed malicious code via PowerShell. In response, I removed the malware from their WordPress site, re-established web service and deleted the suspicious files. The laptop was thoroughly cleaned, and all of the client's passwords were changed to prevent future unauthorized access.
 
 ### WordPress E-Commerce
 *June, 2024*
 
-I developed an e-commerce platform using **WooCommerce** for a local business, enabling them to sell food products produced in Umbria.
+I developed an e-commerce platform using **WooCommerce** for a local business, enabling them to add, update, modify and sell food products produced in Umbria.
 
 ## Intern
 ### Università per Stranieri di Perugia

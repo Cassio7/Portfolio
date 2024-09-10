@@ -11,6 +11,7 @@ Nel corso degl'anni, tra studio personale, scuola ed università, ho avuto la po
 - JavaScript
 - TypeScript
 - Java
+- JEE
 - Python
 - PHP
 - SQL
@@ -37,3 +38,6 @@ Nel corso degl'anni, tra studio personale, scuola ed università, ho avuto la po
 - Zap
 - Nikto
 - Nmap
+- Docker
+- Eclipse
+- VS Code
