@@ -6,8 +6,15 @@
     <description>Recent content on Alessio Cassieri</description>
     <generator>Hugo</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 06 Sep 2024 15:04:44 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 00:19:40 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clearfake</title>
+      <link>http://localhost:1313/it/posts/clearfake/</link>
+      <pubDate>Wed, 11 Sep 2024 00:19:40 +0200</pubDate>
+      <guid>http://localhost:1313/it/posts/clearfake/</guid>
+      <description>&lt;h2 id=&#34;analisi-malware&#34;&gt;Analisi Malware&lt;/h2&gt;&#xA;&lt;p&gt;Questa tipologia di &amp;ldquo;malware&amp;rdquo; che è stato riscontrato appartiene alla categoria dei &lt;strong&gt;Clearfake&lt;/strong&gt;.&#xA;La tecnica sfruttata dagli attaccanti è: un pop-up che mostra alle potenziali vittime un messaggio di errore e suggerisce di copiare e incollare uno script dannoso nel terminale di PowerShell o nella finestra di dialogo Run di Windows. Questo script, una volta eseguito, avvia il malware.&lt;/p&gt;&#xA;&lt;p&gt;Nel particolare si tratta della sottocategoria &amp;ldquo;&lt;strong&gt;ClickFix&lt;/strong&gt;&amp;rdquo; e utilizza un&amp;rsquo;iniezione su siti web compromessi. I comandi di PowerShell scaricano ed eseguono un &lt;strong&gt;file MSI&lt;/strong&gt; o uno script VBS, causando infezioni e data leaking.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Projects</title>
       <link>http://localhost:1313/it/projects/</link>
@@ -20,21 +27,21 @@
       <link>http://localhost:1313/it/experience/</link>
       <pubDate>Fri, 06 Sep 2024 15:04:23 +0200</pubDate>
       <guid>http://localhost:1313/it/experience/</guid>
-      <description>&lt;h2 id=&#34;prestazioni-occasionali&#34;&gt;Prestazioni Occasionali&lt;/h2&gt;&#xA;&lt;h3 id=&#34;clearfake-malware&#34;&gt;ClearFake Malware&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Maggio, 2024&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Il blog di un&amp;rsquo;azienda vicina è stato compromesso dal malware &lt;strong&gt;ClearFake&lt;/strong&gt; e il computer portatile del proprietario ha eseguito del codice dannoso tramite PowerShell.&#xA;In risposta, ho rimosso il malware dal loro sito WordPress ripristinandolo da backup precedente ed eliminato i file sospetti. Il portatile è stato pulito a fondo e tutte le password del cliente sono state modificate per evitare futuri accessi non autorizzati.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;prestazioni-occasionali&#34;&gt;Prestazioni Occasionali&lt;/h2&gt;&#xA;&lt;h3 id=&#34;clearfake-malware&#34;&gt;ClearFake Malware&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Maggio, 2024&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Il blog di un&amp;rsquo;azienda vicina è stato compromesso dal malware &lt;strong&gt;ClearFake&lt;/strong&gt; e il computer portatile del proprietario ha eseguito del codice dannoso tramite PowerShell.&#xA;In risposta, ho rimosso il malware dal loro sito WordPress, ripristinato il servizio web e eliminato file sospetti.&#xA;Il portatile è stato pulito a fondo e tutte le password del cliente sono state modificate per evitare futuri accessi non autorizzati.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Technologies</title>
       <link>http://localhost:1313/it/technologies/</link>
       <pubDate>Fri, 06 Sep 2024 14:59:29 +0200</pubDate>
       <guid>http://localhost:1313/it/technologies/</guid>
-      <description>&lt;p&gt;Nel corso degl&amp;rsquo;anni, tra studio personale, scuola ed università, ho avuto la possibilità di utilizzare numeri linguaggi di programmazione e framework.&lt;/p&gt;&#xA;&lt;h3 id=&#34;linguaggi&#34;&gt;Linguaggi&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;C&lt;/li&gt;&#xA;&lt;li&gt;JavaScript&lt;/li&gt;&#xA;&lt;li&gt;TypeScript&lt;/li&gt;&#xA;&lt;li&gt;Java&lt;/li&gt;&#xA;&lt;li&gt;Python&lt;/li&gt;&#xA;&lt;li&gt;PHP&lt;/li&gt;&#xA;&lt;li&gt;SQL&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;altri-linguaggi&#34;&gt;Altri Linguaggi&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;R&lt;/li&gt;&#xA;&lt;li&gt;Bash&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;framework&#34;&gt;Framework&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Angular&lt;/li&gt;&#xA;&lt;li&gt;Bootstrap&lt;/li&gt;&#xA;&lt;li&gt;Laravel&lt;/li&gt;&#xA;&lt;li&gt;NodeJS&lt;/li&gt;&#xA;&lt;li&gt;Hugo&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;dbms&#34;&gt;DBMS&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;MySQL&lt;/li&gt;&#xA;&lt;li&gt;PostgreSQL&lt;/li&gt;&#xA;&lt;li&gt;Oracle&lt;/li&gt;&#xA;&lt;li&gt;SQLite&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;software&#34;&gt;Software&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Blender&lt;/li&gt;&#xA;&lt;li&gt;Unity&lt;/li&gt;&#xA;&lt;li&gt;Postman&lt;/li&gt;&#xA;&lt;li&gt;Zap&lt;/li&gt;&#xA;&lt;li&gt;Nikto&lt;/li&gt;&#xA;&lt;li&gt;Nmap&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;Nel corso degl&amp;rsquo;anni, tra studio personale, scuola ed università, ho avuto la possibilità di utilizzare numeri linguaggi di programmazione e framework.&lt;/p&gt;&#xA;&lt;h3 id=&#34;linguaggi&#34;&gt;Linguaggi&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;C&lt;/li&gt;&#xA;&lt;li&gt;JavaScript&lt;/li&gt;&#xA;&lt;li&gt;TypeScript&lt;/li&gt;&#xA;&lt;li&gt;Java&lt;/li&gt;&#xA;&lt;li&gt;JEE&lt;/li&gt;&#xA;&lt;li&gt;Python&lt;/li&gt;&#xA;&lt;li&gt;PHP&lt;/li&gt;&#xA;&lt;li&gt;SQL&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;altri-linguaggi&#34;&gt;Altri Linguaggi&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;R&lt;/li&gt;&#xA;&lt;li&gt;Bash&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;framework&#34;&gt;Framework&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Angular&lt;/li&gt;&#xA;&lt;li&gt;Bootstrap&lt;/li&gt;&#xA;&lt;li&gt;Laravel&lt;/li&gt;&#xA;&lt;li&gt;NodeJS&lt;/li&gt;&#xA;&lt;li&gt;Hugo&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;dbms&#34;&gt;DBMS&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;MySQL&lt;/li&gt;&#xA;&lt;li&gt;PostgreSQL&lt;/li&gt;&#xA;&lt;li&gt;Oracle&lt;/li&gt;&#xA;&lt;li&gt;SQLite&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;software&#34;&gt;Software&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Blender&lt;/li&gt;&#xA;&lt;li&gt;Unity&lt;/li&gt;&#xA;&lt;li&gt;Postman&lt;/li&gt;&#xA;&lt;li&gt;Zap&lt;/li&gt;&#xA;&lt;li&gt;Nikto&lt;/li&gt;&#xA;&lt;li&gt;Nmap&lt;/li&gt;&#xA;&lt;li&gt;Docker&lt;/li&gt;&#xA;&lt;li&gt;Eclipse&lt;/li&gt;&#xA;&lt;li&gt;VS Code&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/it/about/</link>
       <pubDate>Fri, 06 Sep 2024 12:26:49 +0200</pubDate>
       <guid>http://localhost:1313/it/about/</guid>
-      <description>&lt;p&gt;Sono Alessio Cassieri, un &lt;strong&gt;appassionato programmatore&lt;/strong&gt; di applicazioni web e software, con un crescente interesse alla cybersecurity, abito a Perugia, Italia.&#xA;Ormai sono 10 anni che sono affascinato dall&amp;rsquo;informatica e dalle nuove tecnologie, per questo cerco sempre di rimanere al passo con il progresso, studiando ed informandomi sui cambiamenti in questo fantastico mondo.&lt;/p&gt;&#xA;&lt;p&gt;Ho creato questo web portfolio, con un carattere molto minimalistico perchè amo la semplicità e la pulizia nel codice, per condividere i miei lavori, progetti e le mie esperienze lavorative.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Sono Alessio Cassieri, un &lt;strong&gt;appassionato programmatore&lt;/strong&gt; di applicazioni web e software, con un crescente interesse alla cybersecurity, abito a Perugia, Italia.&#xA;Ormai sono 10 anni che sono affascinato dall&amp;rsquo;informatica e dalle nuove tecnologie, per questo cerco sempre di rimanere al passo con il progresso, studiando ed informandomi sui cambiamenti in questo fantastico mondo.&lt;/p&gt;&#xA;&lt;p&gt;Ho creato questo web portfolio, con un carattere molto minimalistico perchè amo la semplicità e la pulizia nel codice, per condividere i miei progetti e le mie esperienze lavorative.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

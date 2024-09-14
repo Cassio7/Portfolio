@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Alessio Cassieri</title>
+    <link>http://localhost:1313/it/posts/</link>
+    <description>Recent content in Posts on Alessio Cassieri</description>
+    <generator>Hugo</generator>
+    <language>it</language>
+    <lastBuildDate>Wed, 11 Sep 2024 00:19:40 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/it/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clearfake</title>
+      <link>http://localhost:1313/it/posts/clearfake/</link>
+      <pubDate>Wed, 11 Sep 2024 00:19:40 +0200</pubDate>
+      <guid>http://localhost:1313/it/posts/clearfake/</guid>
+      <description>&lt;h2 id=&#34;analisi-malware&#34;&gt;Analisi Malware&lt;/h2&gt;&#xA;&lt;p&gt;Questa tipologia di &amp;ldquo;malware&amp;rdquo; che è stato riscontrato appartiene alla categoria dei &lt;strong&gt;Clearfake&lt;/strong&gt;.&#xA;La tecnica sfruttata dagli attaccanti è: un pop-up che mostra alle potenziali vittime un messaggio di errore e suggerisce di copiare e incollare uno script dannoso nel terminale di PowerShell o nella finestra di dialogo Run di Windows. Questo script, una volta eseguito, avvia il malware.&lt;/p&gt;&#xA;&lt;p&gt;Nel particolare si tratta della sottocategoria &amp;ldquo;&lt;strong&gt;ClickFix&lt;/strong&gt;&amp;rdquo; e utilizza un&amp;rsquo;iniezione su siti web compromessi. I comandi di PowerShell scaricano ed eseguono un &lt;strong&gt;file MSI&lt;/strong&gt; o uno script VBS, causando infezioni e data leaking.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

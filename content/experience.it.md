@@ -14,6 +14,7 @@ Il blog di un'azienda vicina è stato compromesso dal malware **ClearFake** e il
 In risposta, ho rimosso il malware dal loro sito WordPress, ripristinato il servizio web e eliminato file sospetti.
 Il portatile è stato pulito a fondo e tutte le password del cliente sono state modificate per evitare futuri accessi non autorizzati.
 
+Più informazioni sono inserite in questo [post](/posts/clearfake).
 ### WordPress E-Commerce
 *Giugno, 2024*
 

@@ -12,6 +12,7 @@ url = '/experience/'
 
 A nearby company's blog was compromised by the **ClearFake** malware, and the owner's laptop executed malicious code via PowerShell. In response, I removed the malware from their WordPress site, re-established web service and deleted the suspicious files. The laptop was thoroughly cleaned, and all of the client's passwords were changed to prevent future unauthorized access.
 
+More information about in this [post](/posts/clearfake).
 ### WordPress E-Commerce
 *June, 2024*
 

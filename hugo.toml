@@ -23,46 +23,51 @@ enableEmoji = true
   [[menu.main]]
     # Unique identifier for a menu item
     identifier = "projects"
-
     url = "/projects/"
-    
     pre = "<span data-feather='code'></span>"
-
-
     # Display name
     name = "Projects"
-
     # Weights are used to determine the ordering
     weight = 1
+    
+  [[menu.main]]
+    # Unique identifier for a menu item
+    identifier = "posts"
+    url = "/posts/"
+    pre = "<span data-feather='book'></span>"
+    # Display name
+    name = "Posts"
+    # Weights are used to determine the ordering
+    weight = 2
     
   [[menu.main]]
     identifier = "experience"
     name = "Experience"
     url = "/experience/"
-    weight = 2
+    weight = 3
     pre = "<span data-feather='briefcase'></span>"
     
   [[menu.main]]
     identifier = "technologies"
     name = "Technologies"
     url = "/technologies/"
-    weight = 3
+    weight = 4
     pre = "<span data-feather='terminal'></span>"
 
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 4
+    weight = 5
     # We use feather-icons: https://feathericons.com/
     pre = "<span data-feather='link'></span>"
   
-  # [[menu.main]]
-  #   identifier = "tags"
-  #   name = "Tags"
-  #   url = "/tags/"
-  #   weight = 5
-  #   pre = "<span data-feather='tag'></span>"
+  #  [[menu.main]]
+  #    identifier = "tags"
+  #    name = "Tags"
+  #    url = "/tags/"
+  #    weight = 6
+  #    pre = "<span data-feather='tag'></span>"
 [params]
   # URL for the avatar on homepage
   avatarURL = "/images/pic.png"
